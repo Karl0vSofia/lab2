@@ -1,10 +1,10 @@
-# lab2
 <!doctype HTML>
 <html>
 <head>
 
     <script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
   
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
     <a-scene physics="debug: true">
 <meta charset="utf-8">
        
